@@ -1,4 +1,8 @@
 *
+!config/
+!data/
+!site/
+!Caddyfile
 !compose.yaml
 !readme.md
 !.gitignore
