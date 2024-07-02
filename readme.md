@@ -18,6 +18,7 @@
     - then see
       ```
       *
+      !.gitignore
       ```
 
 4.  down
